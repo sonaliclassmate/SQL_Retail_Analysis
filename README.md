@@ -32,8 +32,7 @@ This project is designed as a **portfolio-ready SQL analytics project**, followi
   - Star Schema Design  
   - Feature Engineering  
   - RFM Analysis  
-- **BI Tool:** Power BI  
-- **Connector:** MySQL ODBC Connector  
+
 
 ---
 
