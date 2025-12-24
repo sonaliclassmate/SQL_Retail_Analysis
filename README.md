@@ -9,8 +9,7 @@ This project is designed as a **portfolio-ready SQL analytics project**, followi
 ---
 
 ## 🧩 Dataset
-**Source:** Online Retail Dataset (UCI / Kaggle)  
-**Description:** Transaction-level data of an online retail store.
+**Source:** Online Retail Dataset (Kaggle Dataset)
 
 ### Key Columns
 - InvoiceNo
@@ -82,17 +81,6 @@ SQL_RETAIL_PROJECT/
 | fact_sales | Central sales fact table |
 
 ---
-
-## ⭐ Data Model (Star Schema)
-
-```
-             dim_date
-                |
-product_dim — fact_sales — customer_dim
-                |
-           country_dim
-```
-
 ---
 
 ## 📊 Feature Engineering
