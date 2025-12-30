@@ -1,5 +1,4 @@
-# 🛒 Online Retail Analysis using SQL & Power BI
-
+# 🛒 Online Retail Analysis using SQL
 ## 📌 Project Overview
 This project performs **end-to-end retail data analysis** using the **Online Retail dataset**.
 It covers **data loading, cleaning, transformation, dimensional modeling, RFM analysis,** and **sales analytics**.
